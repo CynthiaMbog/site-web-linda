@@ -1037,9 +1037,8 @@ a {
   height: 64px;
   width: auto;
   object-fit: contain;
-  filter: brightness(0) invert(1);
   margin: 0 auto;
-  opacity: 0.9;
+  opacity: 0.95;
 }
 
 .footer-tagline {
