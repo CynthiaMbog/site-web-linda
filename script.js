@@ -143,7 +143,7 @@
   let lightboxMedia = null;
 
   // Image lightbox support (existing) — attempt to find elements, but keep optional
-  const lightboxImg = document.getElementById('lightboxImg');
+  const lightboxImg = document.getElementById('lightboxImage');
   const lightboxClose = document.getElementById('lightboxClose');
 
   document.querySelectorAll('.col-item').forEach(item => {
